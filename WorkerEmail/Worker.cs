@@ -88,8 +88,14 @@ namespace WorkerEmail
                                     input.AddImage(path_file1);
                                     var Result = Ocr.Read(input);
                                     var x = Result.Words;//43
-                                    hasil = x[75].ToString().Replace("$", "");
-                                    hasil = hasil.Replace(",", "");
+                                    foreach (var item in x)
+                                    {
+                                        if (item.ToString().Contains("$"))
+                                        {
+                                            hasil = item.ToString().Replace("$", "");
+                                            hasil = hasil.Replace(",", "");
+                                        }
+                                    }
                                     File.Delete(path_file1);
                                 }
                                 var dt_val = dr.GetDataByDate(DateTime.Now.Date, Convert.ToDecimal(14));
@@ -162,7 +168,7 @@ namespace WorkerEmail
                     sendTelegram("-1001671146559", "Proccess insert PALN VALBURY EQUITY from email failed: " + x.Message + " " + DateTime.Now.ToString("HH:mm:ss"));
 
                 }
-                await Task.Delay(60000, stoppingToken);
+                await Task.Delay(300000, stoppingToken);
             }
         }
         private static void sendTelegram(string chatId, string body)
