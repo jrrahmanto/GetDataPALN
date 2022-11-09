@@ -1,0 +1,1116 @@
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.json
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.exe
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.deps.json
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.json
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.dev.json
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.AssemblyReference.cache
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfoInputs.cache
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfo.cs
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CoreCompileInputs.cache
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CopyComplete
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerEmail\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.genruntimeconfig.cache
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Magick.NET-Q8-AnyCPU.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WDSE.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\Magick.NET-Q8-x64.Native.dll.so
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\Magick.NET-Q8-x64.Native.dll.dylib
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Magick.NET-Q8-x64.Native.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\Magick.NET-Q8-x86.Native.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\sourcecode\WorkerEmail\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\sourcecode\WorkerVA\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.AssemblyReference.cache
+D:\sourcecode\WorkerVA\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecode\WorkerVA\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfoInputs.cache
+D:\sourcecode\WorkerVA\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfo.cs
+D:\sourcecode\WorkerVA\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CoreCompileInputs.cache
+D:\sourcecode\WorkerVA\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerVA\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.json
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.exe
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.deps.json
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.json
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.dev.json
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Magick.NET-Q8-AnyCPU.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Abstractions.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Authentication.Azure.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Http.HttpClientLibrary.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Serialization.Json.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Serialization.Text.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\WDSE.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\Tavis.UriTemplates.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\Magick.NET-Q8-x64.Native.dll.so
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\Magick.NET-Q8-x64.Native.dll.dylib
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Magick.NET-Q8-x64.Native.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\Magick.NET-Q8-x86.Native.dll
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerVA\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CopyComplete
+D:\sourcecode\WorkerVA\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.genruntimeconfig.cache
+D:\sourcecode\WorkerVA\WorkerEmail\bin\Debug\netcoreapp3.1\IronXL.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.json
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.exe
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.deps.json
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.json
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.dev.json
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Drive.v3.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\IronXL.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Magick.NET-Q8-AnyCPU.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Abstractions.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Authentication.Azure.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Http.HttpClientLibrary.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Serialization.Json.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Serialization.Text.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\WDSE.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\Tavis.UriTemplates.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\Magick.NET-Q8-x64.Native.dll.so
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\Magick.NET-Q8-x64.Native.dll.dylib
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Magick.NET-Q8-x64.Native.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\Magick.NET-Q8-x86.Native.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.AssemblyReference.cache
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfoInputs.cache
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfo.cs
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CoreCompileInputs.cache
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CopyComplete
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerGoogleDrive\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.genruntimeconfig.cache
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.json
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.exe
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.deps.json
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.json
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.dev.json
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Drive.v3.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\IronXL.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Magick.NET-Q8-AnyCPU.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Abstractions.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Authentication.Azure.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Http.HttpClientLibrary.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Serialization.Json.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Serialization.Text.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\WDSE.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\Tavis.UriTemplates.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\Magick.NET-Q8-x64.Native.dll.so
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\Magick.NET-Q8-x64.Native.dll.dylib
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Magick.NET-Q8-x64.Native.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\Magick.NET-Q8-x86.Native.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.AssemblyReference.cache
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfoInputs.cache
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfo.cs
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CoreCompileInputs.cache
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CopyComplete
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerDFSTimah\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.genruntimeconfig.cache
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.json
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.exe
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.deps.json
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.json
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.dev.json
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Drive.v3.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\IronXL.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Magick.NET-Q8-AnyCPU.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Abstractions.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Authentication.Azure.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Http.HttpClientLibrary.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Serialization.Json.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Serialization.Text.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\WDSE.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\Tavis.UriTemplates.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\Magick.NET-Q8-x64.Native.dll.so
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\Magick.NET-Q8-x64.Native.dll.dylib
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Magick.NET-Q8-x64.Native.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\Magick.NET-Q8-x86.Native.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.AssemblyReference.cache
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfoInputs.cache
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfo.cs
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CoreCompileInputs.cache
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CopyComplete
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerListBankGaransi\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.genruntimeconfig.cache
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.json
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.exe
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.deps.json
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.json
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.dev.json
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Drive.v3.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\IronXL.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Magick.NET-Q8-AnyCPU.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Abstractions.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Authentication.Azure.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Http.HttpClientLibrary.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Serialization.Json.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Serialization.Text.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\WDSE.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\Tavis.UriTemplates.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\Magick.NET-Q8-x64.Native.dll.so
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\Magick.NET-Q8-x64.Native.dll.dylib
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Magick.NET-Q8-x64.Native.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\Magick.NET-Q8-x86.Native.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.AssemblyReference.cache
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfoInputs.cache
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfo.cs
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CoreCompileInputs.cache
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CopyComplete
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerTradeProgress\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.genruntimeconfig.cache
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.json
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.exe
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.deps.json
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.json
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.dev.json
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Drive.v3.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\IronXL.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Magick.NET-Q8-AnyCPU.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Abstractions.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Authentication.Azure.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Http.HttpClientLibrary.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Serialization.Json.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Serialization.Text.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WDSE.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Tavis.UriTemplates.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\Magick.NET-Q8-x64.Native.dll.so
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\Magick.NET-Q8-x64.Native.dll.dylib
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Magick.NET-Q8-x64.Native.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\Magick.NET-Q8-x86.Native.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.AssemblyReference.cache
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfoInputs.cache
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfo.cs
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CoreCompileInputs.cache
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CopyComplete
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.genruntimeconfig.cache
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\IronPdf.Threading.deps.json
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\IronPdf.Threading.runtimeconfig.json
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\IronPdf.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\IronPdf.Threading.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\IronCefSubprocess.exe
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\IronInterop.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\IronPdf.Native.Chrome.deployment.json
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\chrome_100_percent.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\chrome_200_percent.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\chrome_elf.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\d3dcompiler_47.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\icudtl.dat
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libEGL.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libGLESv2.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libcef.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\am.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ar.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\bg.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\bn.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ca.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\cs.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\da.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\de.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\el.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\en-GB.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\en-US.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\es-419.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\es.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\et.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\fa.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\fi.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\fil.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\fr.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\gu.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\he.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\hi.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\hr.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\hu.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\id.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\it.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ja.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\kn.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ko.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\lt.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\lv.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ml.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\mr.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ms.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\nb.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\nl.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\pl.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\pt-BR.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\pt-PT.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ro.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ru.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\sk.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\sl.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\sr.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\sv.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\sw.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ta.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\te.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\th.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\tr.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\uk.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\vi.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\zh-CN.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\zh-TW.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\resources.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\snapshot_blob.bin
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\swiftshader\libEGL.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\swiftshader\libGLESv2.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\v8_context_snapshot.bin
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\vk_swiftshader.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\vulkan-1.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\IronCefSubprocess.exe
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\IronInterop.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\IronPdf.Native.Chrome.deployment.json
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\chrome_100_percent.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\chrome_200_percent.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\chrome_elf.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\d3dcompiler_47.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\icudtl.dat
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libEGL.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libGLESv2.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libcef.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\am.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ar.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\bg.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\bn.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ca.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\cs.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\da.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\de.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\el.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\en-GB.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\en-US.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\es-419.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\es.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\et.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\fa.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\fi.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\fil.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\fr.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\gu.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\he.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\hi.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\hr.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\hu.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\id.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\it.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ja.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\kn.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ko.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\lt.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\lv.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ml.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\mr.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ms.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\nb.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\nl.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\pl.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\pt-BR.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\pt-PT.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ro.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ru.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\sk.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\sl.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\sr.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\sv.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\sw.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ta.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\te.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\th.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\tr.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\uk.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\vi.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\zh-CN.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\zh-TW.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\resources.pak
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\snapshot_blob.bin
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\swiftshader\libEGL.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\swiftshader\libGLESv2.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\v8_context_snapshot.bin
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\vk_swiftshader.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\vulkan-1.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\sourcecode\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.exe
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\IronPdf.Threading.deps.json
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\IronPdf.Threading.runtimeconfig.json
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.deps.json
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.json
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.dev.json
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Azure.Core.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Auth.PlatformServices.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Auth.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Core.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Google.Apis.Drive.v3.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\IronPdf.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\IronPdf.Threading.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\IronXL.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Magick.NET-Q8-AnyCPU.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Graph.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Graph.Core.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Abstractions.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Authentication.Azure.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Http.HttpClientLibrary.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Serialization.Json.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Kiota.Serialization.Text.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WDSE.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WebDriver.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Tavis.UriTemplates.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\IronCefSubprocess.exe
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\IronInterop.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\IronPdf.Native.Chrome.deployment.json
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\chrome_100_percent.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\chrome_200_percent.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\chrome_elf.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\d3dcompiler_47.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\icudtl.dat
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libEGL.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libGLESv2.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libcef.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\am.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ar.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\bg.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\bn.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ca.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\cs.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\da.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\de.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\el.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\en-GB.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\en-US.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\es-419.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\es.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\et.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\fa.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\fi.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\fil.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\fr.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\gu.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\he.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\hi.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\hr.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\hu.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\id.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\it.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ja.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\kn.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ko.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\lt.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\lv.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ml.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\mr.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ms.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\nb.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\nl.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\pl.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\pt-BR.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\pt-PT.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ro.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ru.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\sk.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\sl.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\sr.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\sv.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\sw.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\ta.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\te.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\th.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\tr.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\uk.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\vi.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\zh-CN.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\locales\zh-TW.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\resources.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\snapshot_blob.bin
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\swiftshader\libEGL.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\swiftshader\libGLESv2.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\v8_context_snapshot.bin
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\vk_swiftshader.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\vulkan-1.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\IronCefSubprocess.exe
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\IronInterop.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\IronPdf.Native.Chrome.deployment.json
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\chrome_100_percent.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\chrome_200_percent.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\chrome_elf.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\d3dcompiler_47.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\icudtl.dat
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libEGL.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libGLESv2.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libcef.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\am.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ar.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\bg.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\bn.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ca.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\cs.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\da.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\de.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\el.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\en-GB.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\en-US.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\es-419.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\es.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\et.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\fa.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\fi.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\fil.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\fr.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\gu.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\he.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\hi.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\hr.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\hu.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\id.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\it.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ja.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\kn.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ko.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\lt.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\lv.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ml.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\mr.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ms.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\nb.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\nl.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\pl.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\pt-BR.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\pt-PT.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ro.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ru.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\sk.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\sl.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\sr.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\sv.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\sw.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\ta.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\te.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\th.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\tr.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\uk.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\vi.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\zh-CN.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\locales\zh-TW.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\resources.pak
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\snapshot_blob.bin
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\swiftshader\libEGL.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\swiftshader\libGLESv2.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\v8_context_snapshot.bin
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\vk_swiftshader.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\vulkan-1.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\Magick.NET-Q8-x64.Native.dll.so
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\Magick.NET-Q8-x64.Native.dll.dylib
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\Magick.NET-Q8-x64.Native.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\Magick.NET-Q8-x86.Native.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.AssemblyReference.cache
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfoInputs.cache
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfo.cs
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CoreCompileInputs.cache
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CopyComplete
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\Source Code Service\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.genruntimeconfig.cache
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.exe
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.deps.json
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.json
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.runtimeconfig.dev.json
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.WindowsServices.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Debug.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventLog.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.EventSource.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\RestSharp.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.ServiceProcess.ServiceController.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.AssemblyReference.cache
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfoInputs.cache
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.AssemblyInfo.cs
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CoreCompileInputs.cache
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.csproj.CopyComplete
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.pdb
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\obj\Debug\netcoreapp3.1\WorkerEmail.genruntimeconfig.cache
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\IronOcr.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\IronOcr.Native.deployment.json
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\liblept-5.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libtesseract-5.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\pdfium.vanilla.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\tessdata\eng.traineddata
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\tessdata\eng.user-patterns
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\tessdata\eng.user-words
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\tessdata\osd.traineddata
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\tessdata\pdf.ttf
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\tessdata\pdf.ttx
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\tessdata\tessdata\eng.traineddata
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\tessdata\tessdata_best\eng.traineddata
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\tessdata\tessdata_fast\eng.traineddata
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\IronOcr.Native.deployment.json
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\liblept-5.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libtesseract-5.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\pdfium.vanilla.dll
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\tessdata\eng.traineddata
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\tessdata\eng.user-patterns
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\tessdata\eng.user-words
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\tessdata\osd.traineddata
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\tessdata\pdf.ttf
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\tessdata\pdf.ttx
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\tessdata\tessdata\eng.traineddata
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\tessdata\tessdata_best\eng.traineddata
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\tessdata\tessdata_fast\eng.traineddata
+D:\Source Code Service\service_pbk\WorkerGetDataPaln\WorkerEmail\bin\Debug\netcoreapp3.1\OpenPop.dll
