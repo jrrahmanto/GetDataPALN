@@ -160,12 +160,101 @@ namespace WorkerEmail
                             }
                             client.DeleteMessage(j + 1);
                         }
+                        else if (headers.Subject.ToString().ToLower().Contains("statement pg berjangka"))
+                        {
+                            sendTelegram("-1001671146559", "Proccess insert PALN PLUANG EQUITY from email start " + DateTime.Now.ToString("HH:mm:ss"));
+
+                            Decimal total = 0;
+                            foreach (var attachment in getMessage.FindAllAttachments())
+                            {
+                                var caption = attachment.ContentType.Name;
+                                string ext = Path.GetExtension(attachment.ContentType.Name);
+
+                                if (ext == ".pdf")
+                                {
+                                    string path_file1 = string.Format(path, caption);
+
+                                    if (System.IO.File.Exists(path_file1))
+                                    {
+                                        System.IO.File.Delete(path_file1);
+                                    }
+
+                                    FileStream Stream = new FileStream(path_file1, FileMode.Create);
+                                    BinaryWriter BinaryStream = new BinaryWriter(Stream);
+                                    BinaryStream.Write(attachment.Body);
+                                    BinaryStream.Close();
+                                    if (caption.Contains("Berjangka_Daily"))
+                                    {
+                                        using (var input = new OcrInput())
+                                        {
+                                            var hasil = "0";
+                                            input.AddPdf(path_file1, "71001abc");
+                                            // We can also select specific PDF page numnbers to OCR
+                                            var Result = Ocr.Read(input);
+                                            foreach (var item in Result.Lines)
+                                            {
+                                                if (item.ToString().Contains("Total Equity "))
+                                                {
+                                                   hasil = item.ToString().Split(" ")[2];
+                                                }
+                                            }
+                                            
+                                            total = total + Convert.ToDecimal(hasil.Replace(",", "").Replace(".", ","));
+                                            sendTelegram("-1001671146559", "Proses get total equity PLUANG : " + hasil + "\n" + DateTime.Now.ToString("hh:mm:ss"));
+                                            File.Delete(path_file1);
+                                        }
+                                    }
+                                    else if (caption.Contains("ALPACA"))
+                                    {
+                                        using (var input = new OcrInput())
+                                        {
+                                            input.AddPdf(path_file1);
+                                            // We can also select specific PDF page numnbers to OCR
+                                            var Result = Ocr.Read(input);
+                                            var x = Result.Text.Split(' ');
+                                            var hasil = x[(x.Length - 1)].Replace("$", "");
+                                            total = total + Convert.ToDecimal(hasil.Replace(",", "").Replace(".", ","));
+                                            sendTelegram("-1001671146559", "Proses get total equity PG ALPACA : " + hasil + " " + DateTime.Now.ToString("hh:mm:ss"));
+                                            File.Delete(path_file1);
+                                            // 1 page for every page of the PDF
+                                        }
+                                    }
+                                    else
+                                    {
+                                        using (var input = new OcrInput())
+                                        {
+                                            input.AddPdf(path_file1);
+                                            // We can also select specific PDF page numnbers to OCR
+                                            var Result = Ocr.Read(input);
+                                            var x = Result.Text;
+                                            var splitresult = x.Split(new string[] { "\r\nTotal Equity " }, StringSplitOptions.None);
+                                            var hasil = splitresult[1].Split(new string[] { "\r\n" }, StringSplitOptions.None)[0];
+                                            total = total + Convert.ToDecimal(hasil.Replace(",", "").Replace(".", ","));
+                                            sendTelegram("-1001671146559", "Proses get total equity PLUANG : " + hasil + "\n" + DateTime.Now.ToString("hh:mm:ss"));
+                                            File.Delete(path_file1);
+                                        }
+                                    }
+                                }
+                            }
+                            //insert db
+                            var dt_val = dr.GetDataByDate(DateTime.Now.Date, Convert.ToDecimal(119));
+                            if (dt_val.Count == 0)
+                            {
+                                dr.Insert(119, DateTime.Now.Date, total);
+                                sendTelegram("-1001671146559", "Success insert PALN PLUANG EQUITY : $ " + total + "\nTimestamp " + DateTime.Now.ToString("HH:mm:ss"));
+                            }
+                            else
+                            {
+                                sendTelegram("-1001671146559", "PALN PLUANG already , EQUITY : $ " + dt_val[0].PALN + "\nTimestamp " + DateTime.Now.ToString("HH:mm:ss"));
+                            }
+                            client.DeleteMessage(j + 1);
+                        }
                     }
                     client.Disconnect();
                 }
                 catch (Exception x)
                 {
-                    sendTelegram("-1001671146559", "Proccess insert PALN VALBURY EQUITY from email failed: " + x.Message + " " + DateTime.Now.ToString("HH:mm:ss"));
+                    sendTelegram("-1001671146559", "Proccess insert PALN from email failed: " + x.Message + " " + DateTime.Now.ToString("HH:mm:ss"));
 
                 }
                 await Task.Delay(300000, stoppingToken);
