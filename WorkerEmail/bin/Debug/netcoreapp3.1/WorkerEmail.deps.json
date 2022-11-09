@@ -15,7 +15,6 @@
           "Newtonsoft.Json": "13.0.1",
           "OpenPop": "2.0.6.2",
           "RestSharp": "107.3.0",
-          "Selenium.WebDriver.ChromeDriver": "98.0.4758.10200",
           "Serilog.AspNetCore": "5.0.0",
           "Serilog.Sinks.Console": "4.0.2-dev-00890",
           "System.Data.SqlClient": "4.8.3"
@@ -572,7 +571,6 @@
           }
         }
       },
-      "Selenium.WebDriver.ChromeDriver/98.0.4758.10200": {},
       "Serilog/2.10.0": {
         "runtime": {
           "lib/netstandard2.1/Serilog.dll": {
@@ -1119,13 +1117,6 @@
       "sha512": "sha512-YhEdSQUsTx+C8m8Bw7ar5/VesXvCFMItyZF7G1AUY+OM0VPZUOeAVpJ4Wl6fydBGUYZxojTDR3I6Bj/+BPkJNA==",
       "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
       "hashPath": "runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512"
-    },
-    "Selenium.WebDriver.ChromeDriver/98.0.4758.10200": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-+vKrrLkZ3rqsDDxjH7Z0AhkgYCtcppJ36iVcnzRKCOiFK2kUbxL1ESi5ExhqeeyPFZAO6Mm+n48ctJ4D6H9LEA==",
-      "path": "selenium.webdriver.chromedriver/98.0.4758.10200",
-      "hashPath": "selenium.webdriver.chromedriver.98.0.4758.10200.nupkg.sha512"
     },
     "Serilog/2.10.0": {
       "type": "package",

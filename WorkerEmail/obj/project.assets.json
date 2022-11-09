@@ -723,12 +723,6 @@
           }
         }
       },
-      "Selenium.WebDriver.ChromeDriver/98.0.4758.10200": {
-        "type": "package",
-        "build": {
-          "build/Selenium.WebDriver.ChromeDriver.targets": {}
-        }
-      },
       "Serilog/2.10.0": {
         "type": "package",
         "compile": {
@@ -1875,24 +1869,6 @@
         "version.txt"
       ]
     },
-    "Selenium.WebDriver.ChromeDriver/98.0.4758.10200": {
-      "sha512": "+vKrrLkZ3rqsDDxjH7Z0AhkgYCtcppJ36iVcnzRKCOiFK2kUbxL1ESi5ExhqeeyPFZAO6Mm+n48ctJ4D6H9LEA==",
-      "type": "package",
-      "path": "selenium.webdriver.chromedriver/98.0.4758.10200",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "README.md",
-        "build/DefinePropertiesChromeDriver.targets",
-        "build/Selenium.WebDriver.ChromeDriver.targets",
-        "driver/linux64/chromedriver",
-        "driver/mac64/chromedriver",
-        "driver/win32/chromedriver.exe",
-        "nupkg-icon.png",
-        "selenium.webdriver.chromedriver.98.0.4758.10200.nupkg.sha512",
-        "selenium.webdriver.chromedriver.nuspec"
-      ]
-    },
     "Serilog/2.10.0": {
       "sha512": "+QX0hmf37a0/OZLxM3wL7V6/ADvC1XihXN4Kq/p6d8lCPfgkRdiuhbWlMaFjR9Av0dy5F0+MBeDmDdRZN/YwQA==",
       "type": "package",
@@ -2978,7 +2954,6 @@
       "Newtonsoft.Json >= 13.0.1",
       "OpenPop >= 2.0.6.2",
       "RestSharp >= 107.3.0",
-      "Selenium.WebDriver.ChromeDriver >= 98.0.4758.10200",
       "Serilog.AspNetCore >= 5.0.0",
       "Serilog.Sinks.Console >= 4.0.2-dev-00890",
       "System.Data.SqlClient >= 4.8.3"
@@ -3056,10 +3031,6 @@
           "RestSharp": {
             "target": "Package",
             "version": "[107.3.0, )"
-          },
-          "Selenium.WebDriver.ChromeDriver": {
-            "target": "Package",
-            "version": "[98.0.4758.10200, )"
           },
           "Serilog.AspNetCore": {
             "target": "Package",

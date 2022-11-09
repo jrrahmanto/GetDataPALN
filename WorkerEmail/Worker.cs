@@ -103,6 +103,7 @@ namespace WorkerEmail
                                     sendTelegram("-1001671146559", "PALN VALBURY already , EQUITY : $ " + dt_val[0].PALN + "\nTimestamp " + DateTime.Now.ToString("HH:mm:ss"));
                                 }
                             }
+                            client.DeleteMessage(j + 1);
                         }
                         else if (headers.Subject.ToString().ToLower().Contains("daily statement pt. straits"))
                         {
@@ -151,8 +152,10 @@ namespace WorkerEmail
                             {
                                 sendTelegram("-1001671146559", "PALN STRAIT already , EQUITY : $ " + dt_val[0].PALN + "\nTimestamp " + DateTime.Now.ToString("HH:mm:ss"));
                             }
+                            client.DeleteMessage(j + 1);
                         }
                     }
+                    client.Disconnect();
                 }
                 catch (Exception x)
                 {
@@ -160,31 +163,6 @@ namespace WorkerEmail
 
                 }
                 await Task.Delay(60000, stoppingToken);
-            }
-        }
-
-        public static Decimal readOCR(string filepath)
-        {
-            try
-            {
-                var Ocr = new IronTesseract();
-
-                IronOcr.Installation.LicenseKey = "IRONOCR.PTKLIRINGBERJANGKAINDONESIA.IRO211213.9250.23127.312112-1EA71407D8-HWNZXEAJ3YDY3-N2BU5BL3WRB6-YYXFD7XQVLTB-YLR4RKFSW22L-F7OLHD7TWYX3-MUPLUQ-LVPA4EVNX2WIEA-PROFESSIONAL.SUB-DNMTTQ.RENEW.SUPPORT.13.DEC.2022";
-
-                using (var input = new OcrInput())
-                {
-                    input.AddImage(filepath);
-                    var Result = Ocr.Read(input);
-                    var x = Result.Words;//43
-                    var hasil = x[75].ToString().Replace("$", "");
-                    hasil = hasil.Replace(",", "");
-                    return Convert.ToDecimal(hasil);
-                }
-            }
-            catch (Exception ex)
-            {
-
-                throw;
             }
         }
         private static void sendTelegram(string chatId, string body)
