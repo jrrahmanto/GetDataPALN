@@ -139,7 +139,17 @@ namespace WorkerEmail
                                         input.AddPdf(path_file1);
                                         var Result = Ocr.Read(input);
                                         var splitresult = Result.Text.Split(new string[] { "\r\nTotal Equity " }, StringSplitOptions.None);
-                                        var hasil = splitresult[1].Split(' ')[0];
+                                        var hasil = "0";
+                                        if (splitresult.Length == 1)
+                                        {
+                                            var arrhasil = splitresult[0].Split(new string[] { "\r\n" }, StringSplitOptions.None);
+                                            hasil = arrhasil[103];
+                                        }
+                                        else
+                                        {
+                                            hasil = splitresult[1].Split(' ')[0];
+                                        }
+                                        
                                         System.IO.File.WriteAllText(AppDomain.CurrentDomain.BaseDirectory + "si1.txt", hasil);
                                         sendTelegram("-1001671146559", "Proses get total equity SFI : " + hasil + "\n" + DateTime.Now.ToString("hh:mm:ss"));
                                         File.Delete(path_file1);
